@@ -1,0 +1,7 @@
+{
+  "name": "furball",
+  "creator": "Zen_Xs",
+  "description": "qol mod",
+  "requires":["RenderLib"],
+  "entry": "index.js"
+}
